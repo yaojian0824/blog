@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 姚健的个人博客
+title: 姚健的博客
 heroImage: /logo.svg
 heroText: 姚健的个人博客
 tagline: 你可以在这里放置或是整个项目的描述。
